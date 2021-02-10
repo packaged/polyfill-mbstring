@@ -1,0 +1,6 @@
+{
+  "name": "packaged/polyfill-mbstring",
+  "license": "MIT",
+  "require": {
+  }
+}
