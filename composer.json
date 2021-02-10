@@ -2,5 +2,9 @@
   "name": "packaged/polyfill-mbstring",
   "license": "MIT",
   "require": {
+    "ext-mbstring": "*"
+  },
+  "replace": {
+    "symfony/polyfill-mbstring": "*"
   }
 }
